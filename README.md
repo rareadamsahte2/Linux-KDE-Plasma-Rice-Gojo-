@@ -1,0 +1,1 @@
+Minimal KDE Plasma rice with Breeze Dark theme (only icons changed) and Yet Another Monochrome Icon Set. Upbar: Adwaita Mono clock (8–9), virtual desktop pill Kara, system tray included. Custom wallpaper:https://imgur.com/a/9FHmm0H. Download configs via Plasma UI. 
